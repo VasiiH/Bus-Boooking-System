@@ -1,0 +1,6 @@
+local host hasn't password
+here -> $con=mysqli_connect('localhost','root','','busbooking');
+
+admin account
+ID-admin
+password-admin
